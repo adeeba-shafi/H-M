@@ -352,7 +352,10 @@
     position: absolute;
     top: 3577px;
     left: 385px;
-    font-size: 18px;
+    font-size: 1rem;
+    line-height: 1.6;
+
+    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -440,7 +443,9 @@
 
 .ninth-text3 {
     padding-top: 20px;
-    font-size: 17px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
 }
 
 .ninth-text4 {
