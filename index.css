@@ -1,0 +1,449 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.first-container {
+    background: url(images/h&m.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    position: absolute;
+    z-index: -1;
+    width: 405px;
+    height: 230px;
+    top: 44px;
+    left: 435px;
+}
+
+.box1-text {
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+
+.second-container {
+    display: flex;
+    position: absolute;
+    z-index: -2;
+    top: 100px;
+    left: 80px;
+
+}
+
+.second-b1 {
+    background: url(images/hmgoepprod2.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 560px;
+    height: 635px;
+
+}
+
+.second-b2 {
+    background: url(images/hmgoepprod6.jpg);
+    background-size: cover;
+    width: 560px;
+    height: 635px;
+
+}
+
+
+
+
+.third-container {
+    display: flex;
+
+
+}
+
+.third-b3 {
+    background: url(images/hmgoepprod7.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 419px;
+    height: 390px;
+    position: absolute;
+    top: 890px;
+    left: 80px;
+
+
+}
+
+.third-b4 {
+    background: url(images/hmgoepprod8.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 328px;
+    height: 489px;
+    position: absolute;
+    top: 980px;
+    left: 410px;
+}
+
+.third-b5 {
+    border: solid #B89F5D 2px;
+    background-color: #B89F5D;
+    width: 550px;
+    height: 620.95px;
+    color: white;
+    position: absolute;
+    top: 610px;
+    left: 635px;
+    z-index: -3;
+    text-align: center;
+    padding-top: 20rem;
+    text-align: right;
+    padding-right: 70px;
+}
+
+.third-b5 li {
+    list-style: none;
+    background-color: #5A7670;
+    width: 140px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    position: absolute;
+    left: 400px;
+    margin-top: 66px;
+
+}
+
+.third-b5 li a {
+    text-decoration: none;
+    color: white;
+}
+
+.third-p1 {
+    font-size: 25px;
+}
+
+.third-p2 {
+    font-size: 47px;
+    padding-top: 15px;
+}
+
+.third-p3 {
+    padding-top: 18px;
+    font-size: 18px;
+}
+
+
+.fourth-container {
+    display: flex;
+
+}
+
+.fourth-text1 {
+
+    font-size: 24px;
+    color: black;
+    position: absolute;
+    top: 1630px;
+    left: 80px;
+}
+
+.fourth-text2 {
+
+    font-size: 50px;
+    color: black;
+    position: absolute;
+    top: 1675px;
+    left: 80px;
+}
+
+.fourth-text3 {
+    list-style: none;
+    background-color: #5A7670;
+    width: 193px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    position: absolute;
+    top: 1813px;
+    left: 410px;
+
+}
+
+.fourth-text3 li a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.fourth-th2 {
+    background: url(images/hmgoepprod4.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 380px;
+    height: 390px;
+    position: absolute;
+    z-index: -3;
+    top: 1625px;
+    left: 635px;
+}
+
+.fourth-th3 {
+    background: url(images/h.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    z-index: -2;
+    top: 1455px;
+    left: 950px;
+}
+
+
+.fifth-f1 {
+    background: url(images/hmgoepprod.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 524px;
+    height: 580px;
+    position: absolute;
+    z-index: -2;
+    top: 1887px;
+    left: 80px;
+
+}
+
+.fifth-f2 {
+    background-color: #B89F5D;
+    width: 440px;
+    height: 370px;
+    position: absolute;
+    z-index: -2;
+    top: 2140px;
+    left: 750px;
+    text-align: right;
+    padding-top: 60px;
+    padding-right: 18px;
+}
+
+
+.fifth-text1 {
+    color: white;
+    line-height: 70px;
+    font-size: 23px;
+}
+
+.fifth-text2 {
+    color: white;
+    font-size: 49px;
+}
+
+.fifth-text3 {
+    color: white;
+    font-size: 18px;
+    padding-top: 20px;
+
+}
+
+.sixth-container {
+    display: flex;
+
+}
+
+.sixth-inner1 {
+    background-color: #cd0118;
+    width: 550px;
+    height: 540px;
+    position: absolute;
+    z-index: -3;
+    top: 2410px;
+    padding-top: 250px;
+    color: aliceblue;
+    line-height: 30px;
+    padding-left: 90px;
+}
+
+.sixth-text1 {
+    font-size: 20px;
+}
+
+.sixth-text2 {
+    font-size: 50px;
+    padding-top: 23px;
+    line-height: 50px;
+}
+
+.sixth-text {
+    font-size: 19px;
+    padding-top: 20px;
+}
+
+.sixth-inner2 {
+    background: url(images/hmgoepprod9.jpg);
+    background-position: center;
+    background-size: cover;
+
+    width: 500px;
+    height: 420px;
+    position: absolute;
+    z-index: -3;
+    top: 2670px;
+    left: 705px;
+}
+
+
+
+.seventh-container {
+    background-color: #B89F5D;
+    width: 430px;
+    height: 270px;
+    position: absolute;
+    z-index: -2;
+    top: 3140px;
+    left: 65px;
+    padding-top: 100px;
+    color: white;
+    padding-left: 20px;
+
+}
+
+.seventh-container li {
+    list-style: none;
+    background-color: #5A7670;
+    width: 149px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    position: absolute;
+
+}
+
+.seventh-container li a {
+    text-decoration: none;
+    color: white;
+}
+.seventh-text {
+    font-size: 23px;
+}
+
+.seventh-text2 {
+    font-size: 53px;
+    padding-top: 20px;
+}
+
+.seventh-text3 {
+    margin-top: 47px;
+}
+
+.eighth-container {
+    display: flex;
+}
+
+.eighth-inner1 {
+    background: url(images/hmgoepprod11.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 250px;
+    position: absolute;
+    top: 3563px;
+    left: 65px;
+
+}
+
+.eighth-inner2 {
+    position: absolute;
+    top: 3577px;
+    left: 385px;
+    font-size: 18px;
+
+}
+
+.eighth-inner3 {
+    background: url(images/hmgoepprod3.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 540px;
+    height: 590px;
+    position: absolute;
+    top: 3220px;
+    left: 660px;
+}
+
+
+
+.ninth-container {
+    display: flex;
+}
+
+.ninth-inner1 {
+    background: url(images/hmgoepprod5.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 338px;
+    height: 447px;
+    position: absolute;
+    top: 3847px;
+    left: 270px;
+}
+
+.ninth-inner2 {
+
+    background: url(images/hmgoepprod10.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 380px;
+    height: 340px;
+    position: absolute;
+    z-index: -1;
+    top: 4147px;
+    left: 65px;
+
+}
+
+.ninth-inner3 {
+    background-color: #cd0118;
+    width: 550px;
+    height: 510px;
+    text-align: right;
+    position: absolute;
+    top: 3875px;
+    left: 650px;
+    padding-top: 175px;
+    padding-right: 60px;
+    color: white;
+
+
+}
+
+.ninth-inner3 li {
+    list-style: none;
+    background-color: #b89f5d;
+    width: 150px;
+    height: 42px;
+    line-height: 42px;
+    text-align: center;
+    position: absolute;
+
+}
+
+.ninth-inner3 li a {
+    text-decoration: none;
+    color: white;
+}
+
+.ninth-text1 {
+    font-size: 25px;
+}
+
+.ninth-text2 {
+    padding-top: 20px;
+    font-size: 47px;
+}
+
+.ninth-text3 {
+    padding-top: 20px;
+    font-size: 17px;
+}
+
+.ninth-text4 {
+    margin-top: 70px;
+    margin-left: 395px;
+}
